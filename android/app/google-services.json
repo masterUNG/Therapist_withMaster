@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "740476030100",
+    "project_id": "immt-bdceb",
+    "storage_bucket": "immt-bdceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740476030100:android:b319bfe369bc429eebb881",
+        "android_client_info": {
+          "package_name": "com.flutterflow.therapistbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740476030100-9fp9ebob9q2r5artmfu1mcbgpvteuobi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoW81Z_P7AQsAcWkqwuO07hmQJxpOMKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740476030100-9fp9ebob9q2r5artmfu1mcbgpvteuobi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740476030100-mn3dr2vlmlnp6jmi0unt2b2uanof7qh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.therapistbuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740476030100:android:38337868f12129bbebb881",
+        "android_client_info": {
+          "package_name": "com.flutterflow.therapybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740476030100-9fp9ebob9q2r5artmfu1mcbgpvteuobi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoW81Z_P7AQsAcWkqwuO07hmQJxpOMKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740476030100-9fp9ebob9q2r5artmfu1mcbgpvteuobi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740476030100-mn3dr2vlmlnp6jmi0unt2b2uanof7qh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.therapistbuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
